@@ -1,2 +1,2 @@
 # template
-Template de Symphony
+Template Symphony avec Bootstrap + Sass
